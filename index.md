@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+![headshot](https://imgur.com/a/qP1gH5E)
+## Hellina Hailu Nigatu
 
-You can use the [editor on GitHub](https://github.com/hhnigatu/hhnigatu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a first year PhD student at University of California, Berkeley in the EECS department. I finished my undergrad at Addis Ababa University, Ethiopia
+hellina_nigatu at berkeley dot edu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a first year PhD student at University of California, Berkeley in the EECS department. I finished my undergrad at Addis Ababa University, Ethiopia in Electrical and Computer Engineering. I am currently co-advised by Prof. [Sarah Chasins](https://schasins.com/) and Prof. [John Canny](https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html). I am part of the [PLAIT](https://plait-lab.org/), [CannyLab](https://cannylab.github.io/) and [BAIR](https://bair.berkeley.edu/index.html#header)
+ 
+My research interest broadly lies in the intersection of AI and HCI, with a focus on making usable AI tools accessible to end users in social science fields. I am also interested in the impact of AI on society, specifically in how it affects Low Income Countries and people living in the Global South. 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hhnigatu/hhnigatu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Outside of research, I like to read books, make and drink traditional Ethiopian coffee, explore art, and write.  
