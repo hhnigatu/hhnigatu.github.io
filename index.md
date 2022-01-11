@@ -1,4 +1,4 @@
-![image](https://imgur.com/a/qP1gH5E)
+![image](https://pbs.twimg.com/media/E8DvUBWVcAMpwsi?format=jpg&name=large)
 ## Hellina Hailu Nigatu
 
 hellina_nigatu at berkeley dot edu
