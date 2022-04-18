@@ -12,4 +12,4 @@ Outside of research, I like to read books📚, make and drink traditional Ethiop
 
 
 
-[CV](https://drive.google.com/file/d/1sae9qqp31kxek-zIIVktDzIaM38i0wa4/view?usp=sharing)
+## [CV](https://drive.google.com/file/d/1sae9qqp31kxek-zIIVktDzIaM38i0wa4/view?usp=sharing) | [BLOG]()
