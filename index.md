@@ -8,3 +8,8 @@ I am a first year PhD student at University of California, Berkeley in the EECS 
 My research interest broadly lies in the intersection of AI and HCI, with a focus on making usable AI tools accessible to end users in social science fields. I am also interested in the impact of AI on society, specifically in how it affects Low Income Countries and people living in the Global South. 
 
 Outside of research, I like to read books📚, make and drink traditional Ethiopian coffee☕, knit🧣,  explore art🎨, and write✍️.  
+
+
+
+
+[CV](https://drive.google.com/file/d/1sae9qqp31kxek-zIIVktDzIaM38i0wa4/view?usp=sharing)
