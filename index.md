@@ -1,5 +1,6 @@
 <img src="https://pbs.twimg.com/media/E8DvUBWVcAMpwsi?format=jpg&name=large" width="200" height="200">
 ## Hellina Hailu Nigatu
+## ህሊና ሀይሉ ንጋቱ
 
 📧 hellina underscore nigatu at berkeley dot edu
 
