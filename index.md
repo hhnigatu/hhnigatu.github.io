@@ -15,17 +15,17 @@ Andrew McCrabb, Hellina Nigatu, Absalat Getachew, Valeria Bertacco. "DyGraph: a 
 Chris Chinenye Emezue, Hellina Hailu Nigatu, Cynthia Thinwa, Lerato Louis, Idris Abdulmumin, Samuel Gbenga Oyerinde, Benjamin Ayoade Ajibade, Helper Zhou, Emeka Felix Onwuegbuzia, Handel Chiagozie Emezue, Ifeoluwatayo Adeseye Ige, Atnafu Lambebo Tonja, Chiamaka Ijeoma Chukwuneke, Shamsuddeen Hassan Muhammad, Olanrewaju Samuel. "The African Stopwords Project: Curating Stopwords for African Languages" 3rd Workshop on African Natural Language Processing. 2022
 
 ## Service
-Black Graduate Engineering and Science Students (BGESS), E-Board Member Since 2021
-BAIR ReU, Committee Member Since 2021
-JUAMI-Open Compute Facility, Communications Lead Since 2021
-BAIR Blog, Editorial team member Since 2022
-Berkeley NLP Seminar, Organizer Since 2022
-NeurIPS ML4D, Reviewer 2021
-Deep Learning Indaba, Reviewer 2022
-HCMaT at ICML, PC member 2022
+* Black Graduate Engineering and Science Students (BGESS), E-Board Member Since 2021
+* BAIR ReU, Committee Member Since 2021
+* JUAMI-Open Compute Facility, Communications Lead Since 2021
+* BAIR Blog, Editorial team member Since 2022
+* Berkeley NLP Seminar, Organizer Since 2022
+* NeurIPS ML4D, Reviewer 2021
+* Deep Learning Indaba, Reviewer 2022
+* HCMaT at ICML, PC member 2022
 
-[Google Scholar]('https://scholar.google.com/citations?user=Nn56f9cAAAAJ&hl=en')
-[Twitter]('https://twitter.com/HellinaNigatu')
+[Google Scholar](https://scholar.google.com/citations?user=Nn56f9cAAAAJ&hl=en)
+[Twitter](https://twitter.com/HellinaNigatu)
 
 
 
