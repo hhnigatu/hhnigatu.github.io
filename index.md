@@ -23,6 +23,7 @@ Stanford, CA
 A demonstration workshop for investigative journalists on using a document organizing
 tool I am building. April 2022
 Stanford, CA
+
 ## Service
 * Black Graduate Engineering and Science Students (BGESS), E-Board Member Since 2021
 * BAIR ReU, Committee Member Since 2021
