@@ -1,5 +1,3 @@
-## ህሊና ሀይሉ ንጋቱ
-
 📧 hellina underscore nigatu at berkeley dot edu
 
 I am a first year PhD student at University of California, Berkeley in the EECS department. I finished my undergrad at Addis Ababa University, Ethiopia in Electrical and Computer Engineering. I am currently co-advised by Prof. [Sarah Chasins](https://schasins.com/) and Prof. [John Canny](https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html). I am part of [PLAIT](https://plait-lab.org/), [CannyLab](https://cannylab.github.io/) and [BAIR.](https://bair.berkeley.edu/index.html#header)
