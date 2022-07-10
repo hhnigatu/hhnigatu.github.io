@@ -11,15 +11,15 @@ My research interest broadly lies in the intersection of AI and HCI, with a focu
 Outside of research, I like to read books📚, make and drink traditional Ethiopian coffee☕, knit🧣,  explore art🎨, and write✍️.  
 
 ## Publications
-Andrew McCrabb, Hellina Nigatu, Absalat Getachew, Valeria Bertacco. "DyGraph: a dynamic graph generator and benchmark suite." Proceedings of the 5th ACM SIGMOD Joint International Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA). 2022
+Andrew McCrabb, **Hellina Nigatu**, Absalat Getachew, Valeria Bertacco. "DyGraph: a dynamic graph generator and benchmark suite." Proceedings of the 5th ACM SIGMOD Joint International Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA). 2022
 
-Chris Chinenye Emezue, Hellina Hailu Nigatu, Cynthia Thinwa, Lerato Louis, Idris Abdulmumin, Samuel Gbenga Oyerinde, Benjamin Ayoade Ajibade, Helper Zhou, Emeka Felix Onwuegbuzia, Handel Chiagozie Emezue, Ifeoluwatayo Adeseye Ige, Atnafu Lambebo Tonja, Chiamaka Ijeoma Chukwuneke, Shamsuddeen Hassan Muhammad, Olanrewaju Samuel. "The African Stopwords Project: Curating Stopwords for African Languages" 3rd Workshop on African Natural Language Processing. 2022
+Chris Chinenye Emezue, **Hellina Hailu Nigatu**, Cynthia Thinwa, Lerato Louis, Idris Abdulmumin, Samuel Gbenga Oyerinde, Benjamin Ayoade Ajibade, Helper Zhou, Emeka Felix Onwuegbuzia, Handel Chiagozie Emezue, Ifeoluwatayo Adeseye Ige, Atnafu Lambebo Tonja, Chiamaka Ijeoma Chukwuneke, Shamsuddeen Hassan Muhammad, Olanrewaju Samuel. "The African Stopwords Project: Curating Stopwords for African Languages" 3rd Workshop on African Natural Language Processing. 2022
 
 ## Talks
-* Build Your Case: Using AI and HCI to aid Document Organization
+* **Build Your Case**: Using AI and HCI to aid Document Organization
 Invited talk at Stanford for Watchdog Reporting Class April 2022
 Stanford, CA
-* Detecting and Exploring Replicated Files in Large Document Dumps
+* **Detecting and Exploring Replicated Files in Large Document Dumps**:
 A demonstration workshop for investigative journalists on using a document organizing
 tool I am building. April 2022
 Stanford, CA
