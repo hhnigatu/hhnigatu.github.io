@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Hellina Hailu Nigatu"
 title_separator          : "-"
-name                     : &name "Hellina Hailu Nigatu | ህሊና ሀይሉ ንጋቱ"
+name                     : &name "Hellina Hailu Nigatu"
 description              : &description "CS PhD Student at UC Berkeley"
 url                      : https://hhnigatu.github.io/hhnigatuu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,9 +22,9 @@ repository               : "hhnigatu/hhnigatuu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hellina Hailu Nigatu | ሕሊና ሀይሉ ንጋቱ""
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "CS PhD Student at UC Berkeley. Working on HCI, NLP and AI Ethics."
   location         : #"Earth"
   employer         : "UC Berkeley"
   uri              : # URL
