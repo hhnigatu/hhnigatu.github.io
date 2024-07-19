@@ -9,37 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF](https://drive.google.com/file/d/1x_ZUOYZW3P4X3iSSN552WGnx6UYNRir5/view?usp=sharing)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, UC Berkeley.
+* M.S. in Computer Science, UC Berkeley, 2023.
+* B.S. in Electrical and Computer Engineering, AAiT, 2020.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Visiting Student Researcher
+  * Mohammed Bin Zayed University of AI (MBZUAI)
+  * Working on Machine Translation in Healthcare.
+  * Supervisor: Prof. [Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
