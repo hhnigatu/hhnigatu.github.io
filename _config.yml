@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Hellina Hailu Nigatu"
+title                    : "Hellina Hailu Nigatu | ሕሊና ሀይሉ ንጋቱ"
 title_separator          : "-"
 name                     : &name "Hellina Hailu Nigatu"
 description              : &description "CS PhD Student at UC Berkeley"
@@ -22,7 +22,7 @@ repository               : "hhnigatu/hhnigatuu.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hellina Hailu Nigatu | ሕሊና ሀይሉ ንጋቱ""
+  name             : "Hellina Hailu Nigatu""
   pronouns         : # example: "she/her"  
   bio              : "CS PhD Student at UC Berkeley. Working on HCI, NLP and AI Ethics."
   location         : #"Earth"
