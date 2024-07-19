@@ -12,7 +12,7 @@ title                    : "Hellina Hailu Nigatu"
 title_separator          : "-"
 name                     : &name "Hellina Hailu Nigatu | ህሊና ሀይሉ ንጋቱ"
 description              : &description "CS PhD Student at UC Berkeley"
-url                      : https://hhnigatuu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hhnigatu.github.io/hhnigatuu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hhnigatu/hhnigatuu.github.io"
 
@@ -58,14 +58,14 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : "https://mastodon.social/@hellina"# URL
+  mastodon         : https://mastodon.social/@hellina # URL
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://twitter.com/HellinaNigatu" # Username for X / Twitter
+  twitter          : "HellinaNigatu" # Username for X / Twitter
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
