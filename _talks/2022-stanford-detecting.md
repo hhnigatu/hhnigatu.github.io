@@ -2,7 +2,7 @@
 title: "Detecting and Exploring Replicated Files in Large Document Dump"
 collection: talks
 type: "Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/2022-stanford-detecting
 venue: "Stanford University"
 date: 2022-04-01
 location: "Palo Alto, California"
