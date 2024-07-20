@@ -12,7 +12,7 @@ title                    : "Hellina Hailu Nigatu | ሕሊና ሀይሉ ንጋቱ
 title_separator          : "-"
 name                     : &name "Hellina Hailu Nigatu"
 description              : &description "CS PhD Student at UC Berkeley"
-url                      : https://hhnigatu.github.io/hhnigatuu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hhnigatu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hhnigatu/hhnigatuu.github.io"
 
