@@ -7,7 +7,7 @@ venue: "Addis Ababa Institute of Technology, ECES"
 date: 2023-05-26
 location: "Addis Ababa, Ethiopia"
 ---
-Designed and taught a course at AAiT for BSc and MSc students. 
+Designed and taught a course at AAiT for BSc and MSc students. Click the title to see the syllabus.
 
 ![](/images/tilet.png)
 
@@ -17,9 +17,9 @@ Designed and taught a course at AAiT for BSc and MSc students.
 Inst: [Hellina Hailu Nigatu](https://hhnigatu.github.io)
 
 ## Introduction
-NLP has seen rapid development in the past few years, particularly with the advance of Large Language Models. While we have reaped the benefits of NLP, in domain line machine translation, sentiment analysis, question answering and summarization to name a few, we have also seen failure cases, exported harms, and usability issues. In particular, low-resource languages or languages with limited data suffer from poor quality tools or are not represented at all in these systems. 
+NLP has seen rapid development in the past few years, particularly with the advance of Large Language Models. While we have reaped the benefits of NLP, in domain line machine translation, sentiment analysis, question answering, and summarization to name a few, we have also seen failure cases, exported harms, and usability issues. In particular, low-resource languages or languages with limited data suffer from poor-quality tools or are not represented at all in these systems. 
 
-In this class, we will focus on literature from three different areas: (1) we will look at works from HCI to understand how to build usable and accessible tools, (2) we will look at papers from ethics and STS to understand the impact of technological systems, in articular NLP tools, (3) we will study NLP literature with a focus on low-resource language NLP.
+In this class, we will focus on literature from three different areas: (1) we will look at works from HCI to understand how to build usable and accessible tools, (2) we will look at papers from ethics and STS to understand the impact of technological systems, in particular NLP tools, (3) we will study NLP literature with a focus on low-resource language NLP.
 
 ## Learning Goals
 By the end of this course, students should be able to:
