@@ -46,4 +46,21 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* I am co-organizing [SUMEval 2024](https://sites.google.com/view/sumeval-2025).
+* I joined the Organizing Committee for [WiNLP](https://www.winlp.org/organization/), where I will serve as co-chair for two years.
+* CHI, Reviewer 2024.
+* LREC, Reviewer 2024.
+* FAccT, Program Committee 2024.
+* I am a [STEM*FYI Ambassador](https://grad.berkeley.edu/graduate-diversity/current-grad-students/stemfyi/ambassadors/)!!! (2023)
+* I am an [EECS PEER](http://peers.eecs.berkeley.edu/) now! (2023)
+* Started Virtual Reading Group with Undergrads from Addis Ababa University on NLP and HCI literature, 2023.
+* FAccT Volunteer Chair, 2023
+* [MVC](https://mashaido.wixsite.com/mvahawachiche) workshop organizer, 2023
+* CHI, Reviewer 2022
+* Deep Learning Indaba, Reviewer 2022
+* HMCaT at ICML, PC member 2022
+* Berkeley NLP Seminar, Organizing Member Since 2022
+* NeurIPS ML4D, Reviewer 2021
+* Black Graduate Engineering and Science Students (BGESS), E-Board Member Since 2021
+* BAIR ReU, Committee Member Since 2021
+* JUAMI-Open Compute Facility, Communications Lead 2021-2022.
