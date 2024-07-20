@@ -1,6 +1,6 @@
 ---
 title: "Zeyneb Library"
-excerpt: "I built a Library in memory of my late Grandmother; read more about it here."
+excerpt: "I used my SIGHPC Computational and Data Science Fellowship to build a Library in memory of my late Grandmother; read more about it here."
 collection: portfolio
 ---
 ![IMG-20230131-WA0004](https://user-images.githubusercontent.com/89615961/232181315-0958e699-c129-4b9b-9fd9-f1a61ce047ed.jpg)
