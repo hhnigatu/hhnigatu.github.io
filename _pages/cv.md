@@ -47,6 +47,7 @@ Teaching
 Service and leadership
 ======
 * I am co-organizing [SUMEval 2024](https://sites.google.com/view/sumeval-2025).
+* Served as a mentor for the ACL Student Research Workshop 2024. Check out my mentee, Phakphum Artkaew's website [here](http://phakphumadev.github.io).
 * I joined the Organizing Committee for [WiNLP](https://www.winlp.org/organization/), where I will serve as co-chair for two years.
 * CHI, Reviewer 2024.
 * LREC, Reviewer 2024.
