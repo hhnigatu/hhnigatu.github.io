@@ -13,6 +13,12 @@ My research interest broadly lies in the intersection of AI and HCI, with a focu
 Outside of research, I like to read books📚, make and drink traditional Ethiopian coffee☕, knit🧣,  explore art🎨, and write✍️.  
 
 ## News
+Paper [surveying how Low-Resource Languages are defined in NLP literature](https://hhnigatu.github.io//publication/2024-zenos-emnlp) accepted to EMNLP Main conference 🎊.
+
+[\[Video\]](https://drive.google.com/file/d/1Kvvqyz_tztoh5BtBiC238BWCa4T-4Ap7/view?usp=sharing) Gave a talk on our accepted [Extended Abstract](https://drive.google.com/file/d/1xzalP_dYI7sEFdQFFde3xKriDvAVf5VT/view) at the Workshop on [New Perspectives in Bias and Discrimination](https://wai-amsterdam.github.io/).
+
+Essay on [Exploitation of Global Majority in Current AI Ecosystem](https://hhnigatu.github.io//publication/2024-exploitation-daig) Accepted to the [DAIG Dynamic Coalition](https://intgovforum.org/en/content/igf-2024-dc-daig-data-and-ai-governance-from-the-global-majority) 🎊.
+
 Happy to announce I have been selected to be one of the [FAccT DEI Scholars](https://facctconference.org/2024/deischolars) for 2024! I will be using the fund to support two MSc and 2 BSc women students from Addis Ababa Institute of Technology on a one-year research program in Machine Translation. More details to come!
 
 Started my summer Visiting Student internship at [MBZUAI](https://mbzuai.ac.ae/) working with Prof. [Monojit Choudhury](https://mbzuai.ac.ae/study/faculty/monojit-choudhury/). 
