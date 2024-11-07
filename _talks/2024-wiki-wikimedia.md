@@ -4,7 +4,7 @@ collection: talks
 type: "Virtual Talk"
 permalink: /talks/2024-wiki-wikimedia
 venue: "Wikimedia Research Showcase"
-date: 2024-10-25
+date: 2024-11-20
 location: "Wikimedia Research"
 ---
 
