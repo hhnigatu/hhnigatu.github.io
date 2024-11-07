@@ -7,12 +7,18 @@ collection: portfolio
 Research Assistants:
 
 **Building Local MT Models**
+
 [Bethelhem Yemane Mamo](https://betabravah.github.io/)
+
 [Debora Taye Tesfaye](https://debsh.github.io)
+
 [Ikram Behiru Nesiru](https://ikrambehiru.github.io/)
 
 
 **Evaluating MT Models**
+
 [Bontu Fufa Balcha](https://bontu-fufa.github.io/)
+
 [Elbethel Daniel Zewdie](https://elbethel-dan.github.io/)
+
 [Jitu Ewnetu Hailu](https://jiituu.github.io/)
