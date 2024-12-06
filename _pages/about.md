@@ -6,13 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD student at the University of California, Berkeley in the EECS department. I finished my undergrad at Addis Ababa University, Ethiopia in Electrical and Computer Engineering and received my Masters of Science in CS from UC Berkeley in 2023. I am currently co-advised by Prof. [Sarah Chasins](https://schasins.com/) and Prof. [John Canny](https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html). I am part of [PLAIT](https://plait-lab.org/), [CannyLab](https://cannylab.github.io/) and [BAIR.](https://bair.berkeley.edu/index.html#header)
+I am a PhD candidate at the University of California, Berkeley in the EECS department. I finished my undergrad at Addis Ababa University, Ethiopia in Electrical and Computer Engineering and received my Masters of Science in CS from UC Berkeley in 2023. I am currently co-advised by Prof. [Sarah Chasins](https://schasins.com/) and Prof. [John Canny](https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html). I am part of [PLAIT](https://plait-lab.org/), [CannyLab](https://cannylab.github.io/) and [BAIR.](https://bair.berkeley.edu/index.html#header)
  
 My research interest broadly lies in the intersection of AI and HCI, with a focus on making usable AI tools accessible to end users. I am currently looking into making NLP tools usable and accessible for low-resourced languages. I am also interested in the impact of AI on society, specifically in how it affects Global Majority countries and communities. 
 
 Outside of research, I like to read books📚, make and drink traditional Ethiopian coffee☕, knit🧣,  explore art🎨, and write✍️.  
 
 ## News
+
+Our short paper on Historical Language Reconstruction For Geez, Tigrinya, and Amharic was accepted to COLING 2025! I am super proud of my collaborator Elleni Sisay who will soon graduate with her MSc from AAU!!
+
+I passed my qualification exam and am now a PhD Candidate!! 
+
+🏆 Our paper on [surveying how Low-Resource Languages are defined in NLP literature](https://hhnigatu.github.io//publication/2024-zenos-emnlp)  won an Outstanding Paper Award at EMNLP 2024!!
+
 Paper [surveying how Low-Resource Languages are defined in NLP literature](https://hhnigatu.github.io//publication/2024-zenos-emnlp) accepted to EMNLP Main conference 🎊.
 
 [\[Video\]](https://drive.google.com/file/d/1Kvvqyz_tztoh5BtBiC238BWCa4T-4Ap7/view?usp=sharing) Gave a talk on our accepted [Extended Abstract](https://drive.google.com/file/d/1xzalP_dYI7sEFdQFFde3xKriDvAVf5VT/view) at the Workshop on [New Perspectives in Bias and Discrimination](https://wai-amsterdam.github.io/).
