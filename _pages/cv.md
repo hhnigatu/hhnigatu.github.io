@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](https://drive.google.com/file/d/1x_ZUOYZW3P4X3iSSN552WGnx6UYNRir5/view?usp=sharing)
+[PDF](http://hhnigatu.github.io/files/Hellina_CV.pdf)
 
 Education
 ======
