@@ -13,8 +13,17 @@ My research interest broadly lies in the intersection of AI and HCI, with a focu
 Outside of research, I like to read books📚, make and drink traditional Ethiopian coffee☕, knit🧣,  explore art🎨, and write✍️.  
 
 ## News
+Starting my summer internship at the [Distributed AI Research (DAIR) Institute](https://www.dair-institute.org/).
+
+🏆 Our [CHI 2024 paper](https://doi.org/10.1145/3613904.3642605) on need finding with low-resourced language Wikipedia contributors won the Wikimedia Foundation Research of the Year Award!!!
+
+Our paper on using RAG for Multilingual Knowledge Graph Completion got into ACL 2025 Findings. Paper link coming soon!!
+
+Our [paper](https://openreview.net/pdf?id=YUl0dCLlRi) with [Hahan Aldarmaki](https://h-aldarmaki.github.io/team/) got accepted to AfricaNLP 2025.
 
 Our short paper on Historical Language Reconstruction For Geez, Tigrinya, and Amharic was accepted to COLING 2025! I am super proud of my collaborator Elleni Sisay who will soon graduate with her MSc from AAU!!
+
+🏆 Our [paper](https://doi.org/10.1145/3630106.3658546) on online harm due to policy-violating sexual content on YouTube in Amharic won the Best Paper Award at Black In AI :-) 
 
 I passed my qualification exam and am now a PhD Candidate!! 
 
