@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](http://hhnigatu.github.io/files/Hellina_CV.pdf)
+[PDF](http://hhnigatu.github.io/files/Hellinas_CV.pdf)
 
 Education
 ======
