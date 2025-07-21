@@ -15,6 +15,7 @@ Outside of research, I like to read books📚, make and drink traditional Ethiop
 ## News
 
 ### 2025
+📝 Our paper on Health Information Seeking on Online Platforms in Low-Resourced Languages accepted to [AIES 2025](https://www.aies-conference.com/2025/)!!! Thank you to my amazing collaborators :-) 
 
 🏢 Starting my summer internship at the [Distributed AI Research (DAIR) Institute](https://www.dair-institute.org/).
 
