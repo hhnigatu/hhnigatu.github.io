@@ -15,7 +15,7 @@ Outside of research, I like to read books📚, make and drink traditional Ethiop
 ## News
 
 ### 2025
-📝 Our paper on Errors in Machine Translation has been accepted to EMNLP 2025!! (Two papers in EMNLP this year :-))
+📝 Our paper on Errors in Machine Translation for healthcare in low-resourced languages has been accepted to EMNLP 2025!! (Two papers in EMNLP this year :-))
 
 📝 Our [paper](https://arxiv.org/pdf/2507.15142) arguing against homophone normalization in pre-processing for languages that use the Ge'ez script has been accepted to EMNLP 2025!!
 
