@@ -6,15 +6,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate at the University of California, Berkeley in the EECS department. I finished my undergrad at Addis Ababa University, Ethiopia in Electrical and Computer Engineering and received my Masters of Science in CS from UC Berkeley in 2023. I am currently co-advised by Prof. [Sarah Chasins](https://schasins.com/) and Prof. [John Canny](https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html). I am part of [PLAIT](https://plait-lab.org/), [CannyLab](https://cannylab.github.io/) and [BAIR.](https://bair.berkeley.edu/index.html#header)
+I recently received my PhD in Computer Science from the University of California, Berkeley. I finished my undergrad at Addis Ababa University, Ethiopia, in Electrical and Computer Engineering and received my Master of Science in CS from UC Berkeley in 2023. I was co-advised by Prof. [Sarah Chasins](https://schasins.com/) and Prof. [John Canny](https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html). During my PhD studies, I was part of [PLAIT](https://plait-lab.org/), [CannyLab](https://cannylab.github.io/), and [BAIR.](https://bair.berkeley.edu/index.html#header)
  
 My research interest broadly lies in the intersection of AI and HCI, with a focus on making usable AI tools accessible to end users. I am currently looking into making NLP tools usable and accessible for low-resourced languages. I am also interested in the impact of AI on society, specifically in how it affects Global Majority countries and communities. 
 
 Outside of research, I like to read books📚, make and drink traditional Ethiopian coffee☕, knit🧣,  explore art🎨, and write✍️.  
 
 ## News
+### 2026
+📝 Starting the year strong with a [paper](https://arxiv.org/pdf/2601.17476) accepted to CHI'26 on the bias faced by Global Majority researchers in peer-review. It was an absolute joy to co-first author this with [Farhana Shahid](https://farhana-shahid.github.io/) and the rest of the wonderful team!
 
 ### 2025
+🎊 I graduated!! This PhD journey has truly been a transformational experience that I will cherish forever. Excited for the road ahead!! You can find my dissertation [here](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2025/EECS-2025-218.html).
+
 📝 Our paper on Errors in Machine Translation for healthcare in low-resourced languages has been accepted to EMNLP 2025!! (Two papers in EMNLP this year :-))
 
 📝 Our [paper](https://arxiv.org/pdf/2507.15142) arguing against homophone normalization in pre-processing for languages that use the Ge'ez script has been accepted to EMNLP 2025!!
