@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I recently received my PhD in Computer Science from the University of California, Berkeley. I finished my undergrad at Addis Ababa University, Ethiopia, in Electrical and Computer Engineering and received my Master of Science in CS from UC Berkeley in 2023. I was co-advised by Prof. [Sarah Chasins](https://schasins.com/) and Prof. [John Canny](https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html). During my PhD studies, I was part of [PLAIT](https://plait-lab.org/), [CannyLab](https://cannylab.github.io/), and [BAIR.](https://bair.berkeley.edu/index.html#header)
+I am an incoming postdoc at the [Artificial Intelligence Accountability Lab](https://aial.ie/) at Trinity College Dublin. I recently received my PhD in Computer Science from the University of California, Berkeley. I finished my undergrad at Addis Ababa University, Ethiopia, in Electrical and Computer Engineering and received my Master of Science in CS from UC Berkeley in 2023. I was co-advised by Prof. [Sarah Chasins](https://schasins.com/) and Prof. [John Canny](https://www2.eecs.berkeley.edu/Faculty/Homepages/canny.html). During my PhD studies, I was part of [PLAIT](https://plait-lab.org/), [CannyLab](https://cannylab.github.io/), and [BAIR.](https://bair.berkeley.edu/index.html#header)
  
 My research interest broadly lies in the intersection of AI and HCI, with a focus on making usable AI tools accessible to end users. I am currently looking into making NLP tools usable and accessible for low-resourced languages. I am also interested in the impact of AI on society, specifically in how it affects Global Majority countries and communities. 
 
@@ -14,6 +14,15 @@ Outside of research, I like to read books📚, make and drink traditional Ethiop
 
 ## News
 ### 2026
+
+🎊 I am beyond excited to announce I will be joining the [Artificial Intelligence Accountability Lab](https://aial.ie/) under the supervision of [Dr. Abeba Birhane](https://abebabirhane.com/). I am excited for all the research that is going to come out of this journey. 
+
+📝 Yet another extension of the work on understanding gender bias in MT datasets has been accepted to the [GITT workshop](https://sites.google.com/view/gitt2026/programme?authuser=0)!! In this version, "Yeswa-Stories: A Three-Way Parallel Dataset of Female African Figures in Low-Web Data Languages," we present a three-way parallel dataset exclusively focused on stories of women figures and cultural practices centering women. 
+
+📝 An extension of the paper on MT dataset evaluation has been accepted as a non-archival paper to the AfricaNLP workshop 2026. In this version, we specifically use Masked Language Models and train them using popular MT datasets to understand the encoded gender bias. You can find the paper [here](https://openreview.net/attachment?id=atBsBqbT6x&name=pdf).
+
+📝 Our [paper](https://arxiv.org/abs/2511.03880) "Evaluating Machine Translation Datasets for Low-Web Data Languages: A Gendered Lens" has been accepted to the findings of ACL 2026!! I am so proud of the team who worked on this project!!!
+
 📝 Starting the year strong with a [paper](https://arxiv.org/pdf/2601.17476) accepted to CHI'26 on the bias faced by Global Majority researchers in peer-review. It was an absolute joy to co-first author this with [Farhana Shahid](https://farhana-shahid.github.io/) and the rest of the wonderful team!
 
 ### 2025
