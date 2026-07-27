@@ -1,6 +1,6 @@
 ---
 title: 'Reading my way through the continent'
-date: 2012-08-14
+date: 2025
 permalink: /posts/2012/08/blog-post-1/
 tags:
 ---
@@ -31,8 +31,11 @@ Books  I have read so far:
 10. Cote D'Ivore: In the Company of Men by Véronique Tadjo
 11. Benin: Missing in Action and Presumed Dead by Rashidah Ismaili
 12. DRC: How dare the sun rise? by Sandra Uwiringiyimana
-13. Liberia: She would be king by Wayetu Moore (currently reading)
-14. Egypt: Woman at point zero by Nawal El Saadawi (upcoming)
+13. Liberia: She would be king by Wayetu Moore 
+14. Egypt: Woman at point zero by Nawal El Saadawi 
+15. South Africa: Push Push and other stories by Sindiwe Magona
+16. Cameroon: On the Postcolony by  Achille Mbembe (currently reading)
+
 
 \*I read Abyssinian Nomad when I was an undergrad. It was a gift from my then-mentor, Nahu Senya Girma. I decided to include it as part of this project as it is about the author, Meskerem Haile's journey backpacking from South Africa to Egypt and all the cultures she enounters on her way. It felt very fitting to the theme :-)
 
