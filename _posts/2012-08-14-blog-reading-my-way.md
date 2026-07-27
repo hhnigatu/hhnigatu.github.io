@@ -1,6 +1,6 @@
 ---
 title: 'Reading my way through the continent'
-date: 2025
+date: 2025-08-16
 permalink: /posts/2012/08/blog-post-1/
 tags:
 ---
